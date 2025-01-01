@@ -19,7 +19,7 @@ Sundress Haven is an e-commerce website built using HTML, CSS, and TypeScript. T
 
 To get started with the project, follow these steps:
 
-1. Clone the repository using `git clone https://github.com/your-username/sundress-haven-frontend.git`
+1. Clone the repository using `git clone https://github.com/owayo-cloud/sundressHaven.git`
 2. Install the dependencies using `npm install` or `yarn install`
 3. Start the development server using `npm start` or `yarn start`
 
